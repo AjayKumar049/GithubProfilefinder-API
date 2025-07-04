@@ -1,5 +1,7 @@
 <h1><b>GithubProfilefinder-API</b></h1> 
 
+A simple React app that fetches and displays real-time user data from GitHub using the Fetch API (via Axios). Built using ReactJS + Vite for fast development, and styled with TailwindCSS for a modern UI. 
+
 ## Features
 Fetch and display the following GitHub user details:
   - Joined date
