@@ -1,8 +1,8 @@
-<b>GithubProfilefinder-API</b>
+<b>GithubProfilefinder-API</b> <hr>
 
 ## Features
 Fetch and display the following GitHub user details:
-  - Join date
+  - Joined date
   - Location
   - Total public repositories
 
