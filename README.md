@@ -1,4 +1,4 @@
-###GithubProfilefinder-API
+<b>GithubProfilefinder-API</b>
 
 ## Features
 Fetch and display the following GitHub user details:
