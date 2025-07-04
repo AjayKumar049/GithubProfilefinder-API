@@ -1,4 +1,4 @@
-#GithubProfilefinder-API
+###GithubProfilefinder-API
 
 ## Features
 Fetch and display the following GitHub user details:
@@ -6,7 +6,7 @@ Fetch and display the following GitHub user details:
   - Location
   - Total public repositories
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Framework:** ReactJS (with Vite for faster builds)
 - **Styling:** Tailwind CSS
 - **HTTP Client:** Axios (via npm package)
