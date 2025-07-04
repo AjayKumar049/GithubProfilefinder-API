@@ -1,4 +1,4 @@
-<h1><b>GithubProfilefinder-API</b></h1> <hr>
+<h1><b>GithubProfilefinder-API</b></h1> 
 
 ## Features
 Fetch and display the following GitHub user details:
