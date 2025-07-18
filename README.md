@@ -16,3 +16,8 @@ Fetch and display the following GitHub user details:
   ## Live Demo
 
  [Click here to view the app](https://githubfetchapi-2025.netlify.app/)
+
+ ## Connect with Me
+Feel free to get in touch for collaboration or to share your feedback.
+
+[Visit my LinkedIn profile](https://www.linkedin.com/in/ajay-wade-b48214222/)
