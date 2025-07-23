@@ -9,16 +9,16 @@ Fetch and display the following GitHub user details:
   - Total public repositories
 
 ## How to use
--Open the link in any web browser.
+<li>Open the link in any web browser.</li>
+<li>Enter your GitHub ID in the input field provided.</li>
+<li>Click the "Search" button.</li>
+<li>After clicking, it will display:
 
--Enter your GitHub ID in the input field provided.
+Total number of repositories
 
--Click the "Search" button.
+Joined date
 
- -After clicking, it will display:
-  Total number of repositories
-  Joined date
-  Location
+Location</li>
 
 ## Tech Stack
 - **Framework:** ReactJS (with Vite for faster builds)
