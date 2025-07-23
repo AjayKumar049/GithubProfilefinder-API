@@ -13,8 +13,8 @@ Fetch and display the following GitHub user details:
 <li>Enter your GitHub ID in the input field provided</li>
 <li>Click the "Search" button</li>
 <li>After clicking, it will display:
-  Total number of repositories
-  Joined date
+  Total number of repositories,
+  Joined date, and
   Location</li>
 
 ## Tech Stack
