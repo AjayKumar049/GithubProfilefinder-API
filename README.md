@@ -9,9 +9,9 @@ Fetch and display the following GitHub user details:
   - Total public repositories
 
 ## How to use
-<li>Open the link in any web browser.</li>
-<li>Enter your GitHub ID in the input field provided.</li>
-<li>Click the "Search" button.</li>
+<li>Open the link provided in the Live Demo section using any web browser</li>
+<li>Enter your GitHub ID in the input field provided</li>
+<li>Click the "Search" button</li>
 <li>After clicking, it will display:
   Total number of repositories
   Joined date
@@ -22,11 +22,11 @@ Fetch and display the following GitHub user details:
 - **Styling:** Tailwind CSS
 - **HTTP Client:** Axios (via npm package)
 
-  ## Live Demo
+## Live Demo
 
  [Click here to view the app](https://githubfetchapi-2025.netlify.app/)
 
- ## Connect with Me
+## Connect with Me
 Feel free to get in touch for collaboration or to share your feedback.
 
 [Visit my LinkedIn profile](https://www.linkedin.com/in/ajay-wade-b48214222/)
